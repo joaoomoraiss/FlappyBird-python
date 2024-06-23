@@ -2,7 +2,7 @@ import pygame
 import os
 import random
 
-#tela do jogo
+#Tela do jogo
 
 TELA_LARGURA = 500
 TELA_ALTURA = 800
